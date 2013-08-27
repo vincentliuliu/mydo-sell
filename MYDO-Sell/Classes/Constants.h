@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 PersonalOffice. All rights reserved.
 //
 
-#define HOST_DOMAIN @"http://121.199.26.166/index.php?"
+#define HOST_DOMAIN @""
 #define BASE_COLOR_VALUE @"3bb3c3"
 // -----------------------------------------------
 #define MAINVIEW_CALLBACK_ACTION_TYPE @"MAINVIEW_CALLBACK_ACTION_TYPE"
